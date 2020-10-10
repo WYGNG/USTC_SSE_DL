@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d_2019_06_15-17_30_23.jpg</filename>
+	<path>C:\Users\htc\Desktop\深度学习\image\image\d_2019_06_15-17_30_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>109</ymin>
+			<xmax>360</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

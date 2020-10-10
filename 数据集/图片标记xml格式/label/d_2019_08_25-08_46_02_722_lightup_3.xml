@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lq</folder>
+	<filename>d_2019_08_25-08_46_02_722_lightup_3.jpg</filename>
+	<path>D:\Users\18234\Desktop\lq\d_2019_08_25-08_46_02_722_lightup_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electromobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>17</ymin>
+			<xmax>535</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lq</folder>
+	<filename>n_w_2019_06_10-16_28_38.jpg</filename>
+	<path>D:\Users\18234\Desktop\lq\n_w_2019_06_10-16_28_38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>126</ymin>
+			<xmax>350</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

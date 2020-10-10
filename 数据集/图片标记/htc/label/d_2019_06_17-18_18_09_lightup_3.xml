@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d_2019_06_17-18_18_09_lightup_3.jpg</filename>
+	<path>C:\Users\htc\Desktop\深度学习\image\image\d_2019_06_17-18_18_09_lightup_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electromobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>37</ymin>
+			<xmax>372</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

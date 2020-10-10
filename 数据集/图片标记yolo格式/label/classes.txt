@@ -1,0 +1,5 @@
+bicycle
+bag
+bucket
+chair
+broom

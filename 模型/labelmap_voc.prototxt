@@ -1,0 +1,65 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "electromobile"
+  label: 1
+  display_name: "electromobile"
+}
+item {
+  name: "bicycle"
+  label: 2
+  display_name: "bicycle"
+}
+item {
+  name: "bag"
+  label: 3
+  display_name: "bag"
+}
+item {
+  name: "broom"
+  label: 4
+  display_name: "broom"
+}
+item {
+  name: "chair"
+  label: 5
+  display_name: "chair"
+}
+item {
+  name: "flowerpot"
+  label: 6
+  display_name: "flowerpot"
+}
+item {
+  name: "bucket"
+  label: 7
+  display_name: "bucket"
+}
+item {
+  name: "box"
+  label: 8
+  display_name: "box"
+}
+item {
+  name: "babycarriage"
+  label: 9
+  display_name: "babycarriage"
+}
+item {
+  name: "person"
+  label: 10
+  display_name: "person"
+}
+item {
+  name: "bagw"
+  label: 11
+  display_name: "bagw"
+}
+
+
+
+
+

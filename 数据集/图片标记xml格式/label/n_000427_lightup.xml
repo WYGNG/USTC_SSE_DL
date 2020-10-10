@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lq</folder>
+	<filename>n_000427_lightup.jpg</filename>
+	<path>D:\Users\18234\Desktop\lq\n_000427_lightup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>110</ymin>
+			<xmax>400</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

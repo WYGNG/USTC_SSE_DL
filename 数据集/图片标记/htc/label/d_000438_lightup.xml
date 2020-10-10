@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d_000438_lightup.jpg</filename>
+	<path>C:\Users\htc\Desktop\深度学习\image\image\d_000438_lightup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>babycarriage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>113</ymin>
+			<xmax>528</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

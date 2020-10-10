@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wyg</folder>
+	<filename>w_d_2019_06_16-14_08_44_lightup.jpg</filename>
+	<path>G:\Users\WYG\桌面\科软\2_学习\6_必修环节_深度学习实践\wyg\w_d_2019_06_16-14_08_44_lightup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>electromobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>15</ymin>
+			<xmax>500</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

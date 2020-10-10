@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d_1970_00_07-04_36_03_819.jpg</filename>
+	<path>C:\Users\htc\Desktop\深度学习\image\image\d_1970_00_07-04_36_03_819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>677</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>163</ymin>
+			<xmax>528</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

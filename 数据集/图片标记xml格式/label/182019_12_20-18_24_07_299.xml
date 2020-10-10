@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sc</folder>
+	<filename>182019_12_20-18_24_07_299.jpg</filename>
+	<path>D:\Users\18234\Desktop\sc\182019_12_20-18_24_07_299.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>200</ymin>
+			<xmax>387</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,15 @@
+This is the Twins File of "../../expr/test/model/test_group6.cambricon".
+Function number: 1
+
+Function #0 {
+    Name: subnet0
+    Core version: CAMBRICON_1H8
+    Model Parallelism: 1
+    Core limit: 1
+    Inst data split: false
+    Input number: 1
+        Input #0  useReshape: true
+    Output number: 1
+        Output #0  useReshape: true
+    Param order: Input #0, Output #0
+}

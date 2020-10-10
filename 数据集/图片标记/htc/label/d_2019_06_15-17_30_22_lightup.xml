@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>d_2019_06_15-17_30_22_lightup.jpg</filename>
+	<path>C:\Users\htc\Desktop\深度学习\image\image\d_2019_06_15-17_30_22_lightup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>78</ymin>
+			<xmax>374</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
